@@ -2,7 +2,6 @@
 
 A Python-based AI agent for automating online order placement on reseller websites by interacting with Laravel/PHP portals.
 
-![System Architecture](https://via.placeholder.com/800x400?text=Order+Automation+System+Architecture) *(Replace with actual diagram)*
 
 ## Features
 
